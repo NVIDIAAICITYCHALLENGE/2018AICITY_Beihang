@@ -1,9 +1,9 @@
 ## Track1
 
 ### Input
-trk1vids: folder contains all videos, e.g., Loc1_1.mp4
-trk1out/out: folder contains all output of MOT system, e.g. Loc1_1.mp4-res.txt
-LOC-modL2: file contains labels of lanelines
+- trk1vids: folder contains all videos, e.g., Loc1_1.mp4
+- trk1out/out: folder contains all output of MOT system, e.g. Loc1_1.mp4-res.txt
+- LOC-modL2: file contains labels of lanelines
 
 ### Output
 track1.txt: the result file
